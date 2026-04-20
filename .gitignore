@@ -1,0 +1,36 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor & IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies & Packages
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Build output
+dist/
+build/
+out/
+
+# Secrets & Environment Variables
+.env
+.env.local
+.env.*.local
+*.log
+
+# Mentee scratch
+scratch/
+TODO.local.md
