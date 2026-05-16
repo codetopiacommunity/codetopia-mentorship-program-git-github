@@ -19,9 +19,10 @@
 ## 🧑‍🏫 Quick Start for Mentors
 
 1. Read [`mentor-resources/teaching-guide.md`](mentor-resources/teaching-guide.md).
-2. Pick a pacing option in [`mentor-resources/pacing-guide.md`](mentor-resources/pacing-guide.md).
-3. Customize Week 1 with your voice, then share the repo URL.
-4. Use rubrics in [`mentor-resources/rubrics/`](mentor-resources/rubrics/) when grading capstones.
+2. Read [`mentor-resources/project-format-guide.md`](mentor-resources/project-format-guide.md) — *the lesson is the Git, not the build.* Critical for Weeks 1–3.
+3. Pick a pacing option in [`mentor-resources/pacing-guide.md`](mentor-resources/pacing-guide.md).
+4. Customize Week 1 with your voice, then share the repo URL.
+5. Use rubrics in [`mentor-resources/rubrics/`](mentor-resources/rubrics/) when grading capstones.
 
 ---
 

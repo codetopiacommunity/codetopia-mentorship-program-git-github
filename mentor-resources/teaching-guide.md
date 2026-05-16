@@ -6,6 +6,10 @@
 
 **Mentees should leave each session feeling more capable than when they arrived.** Everything else — XP, rubrics, pacing — is in service of that.
 
+## Read this before Week 1
+
+[`project-format-guide.md`](project-format-guide.md) — the project-format arc across all 8 weeks. **The lesson is the Git, not the build.** Default to markdown; let complexity grow toward Week 8. Skipping this guide is the #1 way to lose the plot in Weeks 2–3.
+
 ## Session Anatomy (90 min)
 
 | Time | Block | What happens |
