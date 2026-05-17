@@ -48,11 +48,13 @@ Build a small "study-notes" repo, then go on a guided tour of its own history us
 
 ## Deliverable
 
-Post in **Discussions → Week 2** a single message containing:
+Submit your work as follows:
 
-- The output of `git log --oneline` for your repo.
-- A short paragraph (3–5 sentences) answering: *"If I had to explain `git diff` vs `git diff --staged` to a friend, I'd say..."*
-- A link (or paste) of your `tour.md`.
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically a clean `git log --oneline` and a glimpse of your `tour.md`. Name them `01-git-log.png`, `02-tour.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In Discussions → Week 2** (additional channel): post the output of `git log --oneline`, a link (or paste) of `tour.md`, and a short paragraph (3–5 sentences) answering: *"If I had to explain `git diff` vs `git diff --staged` to a friend, I'd say..."*
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch goal (+25 XP)
 

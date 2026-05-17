@@ -24,7 +24,12 @@ A brief one-liner describing your project.
 
 ## 📸 Screenshots
 
-<!-- Drag and drop a screenshot here. -->
+All screenshots live in [`screenshots/`](screenshots/) and are referenced here:
+
+![Description of screenshot 1](screenshots/01-description.png)
+![Description of screenshot 2](screenshots/02-description.png)
+
+> **Submission rule:** the `screenshots/` folder is the submission of record. Drop a copy in the WhatsApp group too, so the cohort can cheer you on.
 
 ## 📚 What I Learned
 

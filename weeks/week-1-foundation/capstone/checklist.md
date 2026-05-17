@@ -14,6 +14,8 @@ Run this list before opening your PR.
 
 - [ ] `README.md` present and complete
 - [ ] `.gitignore` present
+- [ ] `screenshots/` folder present with at least 2 named screenshots (`01-...`, `02-...`)
+- [ ] Best screenshot shared in the WhatsApp group
 - [ ] No `.DS_Store`, `Thumbs.db`, or `.env` committed
 - [ ] No accidental personal info (real address, phone, secret tokens)
 

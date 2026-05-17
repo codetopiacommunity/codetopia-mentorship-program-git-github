@@ -22,6 +22,10 @@ The *project content* matters less than the *shipping craft*. A 50-line CLI with
 
 ## Requirements (all must be present)
 
+### 0. Screenshots folder
+
+- A `screenshots/` folder in your project containing at least 2 screenshots showing the work in action — strong picks include: branch protection settings, green CI on `main`, the published v1.0.0 release page, the rendered README, the live deploy (if any). See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
+
 ### 1. Repository hygiene
 
 - Public repository on GitHub (under your account, or transferred to yours).
@@ -69,16 +73,20 @@ A `GRADUATION.md` at the root of your repo OR in your cohort submission folder, 
 
 ## Deliverable
 
-Open a PR to our cohort repo adding your submission under `projects-showcase/week-8-projects/<your-handle>/`. Include:
+Submit your work as follows:
 
-- A `README.md` in the submission folder with:
-  - Link to your project repo.
-  - Link to the v1.0.0 release.
-  - Link to any live deploy (Pages, Vercel, etc.).
-  - Embedded screenshot.
-  - The pitch (same as GRADUATION.md).
-- `GRADUATION.md` (can live here or in the project repo).
-- Screenshots: branch protection settings, green CI on `main`, the release page.
+1. **Open a PR** (the submission of record) to our cohort repo adding your submission under `projects-showcase/week-8-projects/<your-handle>/`. Include:
+
+   - A `README.md` in the submission folder with:
+     - Link to your project repo.
+     - Link to the v1.0.0 release.
+     - Link to any live deploy (Pages, Vercel, etc.).
+     - Embedded screenshot.
+     - The pitch (same as GRADUATION.md).
+   - `GRADUATION.md` (can live here or in the project repo).
+   - Your `screenshots/` folder with: branch protection settings, green CI on `main`, the release page (at minimum).
+
+2. **In the WhatsApp group** (the celebration): once your PR is open, share your best screenshot — the release page, the green CI, or the live deploy — alongside the PR link so the cohort can give you a proper graduation send-off.
 
 ## Grading
 

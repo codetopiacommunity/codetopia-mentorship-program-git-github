@@ -51,12 +51,13 @@ Connect a local repo to a brand-new GitHub repository and push it. Get SSH authe
 
 ## Deliverable
 
-In the **Discussions** tab, post a single message containing:
+Submit your work as follows:
 
-- The output of `git remote -v`
-- The output of `ssh -T git@github.com` (SSH route) **or** a screenshot of a push that didn't prompt for a password (HTTPS route)
-- The URL of your new GitHub repo
-- A one-sentence answer to: *"What does the `-u` flag in `git push -u origin main` do?"*
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically `git remote -v`, the `ssh -T git@github.com` greeting, and the GitHub repo page with your README rendered. Name them `01-git-remote.png`, `02-ssh-greeting.png`, `03-github-repo.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In the Discussions tab** (additional channel): post the output of `git remote -v`, the URL of your new GitHub repo, and a one-sentence answer to: *"What does the `-u` flag in `git push -u origin main` do?"*
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch goal (+10 XP)
 

@@ -34,6 +34,8 @@ Run this list before opening your PR.
 
 - [ ] You forked this mentorship repo
 - [ ] You added `projects-showcase/week-4-projects/<your-handle>/README.md`
+- [ ] `screenshots/` folder present with at least 2 named screenshots (`01-...`, `02-...`)
+- [ ] Best screenshot shared in the WhatsApp group
 - [ ] That file links to your GitHub repo
 - [ ] That file includes `git log --oneline` and `git remote -v` output
 - [ ] PR title follows [commit message guide](../../../templates/commit-message-guide.md)

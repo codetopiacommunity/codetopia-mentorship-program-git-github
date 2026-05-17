@@ -13,6 +13,7 @@ Either path earns full credit. The point is the craft, not the merge.
 
 ## Requirements (both paths)
 
+- A `screenshots/` folder in your project containing at least 2 screenshots showing the work in action (e.g., the opened PR page, a maintainer's review comment, your local test passing). See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 - A target project identified, with justification for why it's the right pick.
 - A clear, well-scoped change — one logical thing.
 - A branch named conventionally.
@@ -40,11 +41,16 @@ Either path earns full credit. The point is the craft, not the merge.
 
 ## Deliverable
 
-Open a PR to our cohort repo adding your submission under `projects-showcase/week-7-projects/<your-handle>/`. Include:
+Submit your work as follows:
 
-- `WRITEUP.md`
-- `PR-DESCRIPTION.md` (both paths — Path A can paste their real description here too)
-- For Path B only: `SIMULATED-REVIEW.md`
+1. **Open a PR** (the submission of record) to our cohort repo adding your submission under `projects-showcase/week-7-projects/<your-handle>/`. Include:
+
+   - `WRITEUP.md`
+   - `PR-DESCRIPTION.md` (both paths — Path A can paste their real description here too)
+   - For Path B only: `SIMULATED-REVIEW.md`
+   - Your `screenshots/` folder.
+
+2. **In the WhatsApp group** (the celebration): once your PR is open, share your best screenshot and the PR link so the cohort can cheer you on.
 
 ## Grading
 

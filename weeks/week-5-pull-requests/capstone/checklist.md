@@ -20,6 +20,8 @@ Run this list before opening your PR and before submitting your review.
 
 - [ ] `projects-showcase/week-5-projects/<your-handle>/README.md` exists
 - [ ] That README describes your Week 4 project, links to the GitHub repo, and includes at least one screenshot
+- [ ] `screenshots/` folder present with at least 2 named screenshots (`01-...`, `02-...`)
+- [ ] Best screenshot shared in the WhatsApp group
 - [ ] No absolute local paths or broken image links
 - [ ] No accidental unrelated files (package-lock.json, .DS_Store, IDE configs)
 

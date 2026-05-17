@@ -61,7 +61,13 @@ git add recovery-log.md
 git commit -m "docs: add recovery log"
 ```
 
-Post the output of `git log --oneline` in **Discussions → Week 2**.
+Then submit your work as follows:
+
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically a clean `git log --oneline` and a glimpse of your `recovery-log.md`. Name them `01-git-log.png`, `02-recovery-log.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In Discussions → Week 2** (additional channel): post the output of `git log --oneline`.
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch goal (+25 XP)
 

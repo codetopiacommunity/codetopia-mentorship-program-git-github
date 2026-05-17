@@ -64,15 +64,22 @@ If your project has any kind of static front-end or docs:
 
 ## Deliverable
 
-A PR adding your project under `projects-showcase/week-8-projects/<your-handle>/session-2/` with:
+Submit your work as follows:
 
-- Link to your repo.
-- Link to the published v1.0.0 release.
-- Link to your Pages site (if you did that stretch).
-- A `notes.md` containing:
-  - Your release notes (pasted).
-  - A "30-second pitch" you wrote for the top of the README.
-  - One or two sentences about what you'd bump `v1.1.0` for.
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically the published GitHub Releases page for `v1.0.0`, the polished README on GitHub, and (if applicable) the live Pages site. Name them `01-release-page.png`, `02-readme.png`, `03-pages-site.png`, etc. Place it at `projects-showcase/week-8-projects/<your-handle>/session-2/screenshots/`.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot (the release page is a great pick) so the cohort can cheer you on.
+3. **Open a PR** adding your project under `projects-showcase/week-8-projects/<your-handle>/session-2/` with:
+
+   - Link to your repo.
+   - Link to the published v1.0.0 release.
+   - Link to your Pages site (if you did that stretch).
+   - The `screenshots/` folder.
+   - A `notes.md` containing:
+     - Your release notes (pasted).
+     - A "30-second pitch" you wrote for the top of the README.
+     - One or two sentences about what you'd bump `v1.1.0` for.
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch (+25 XP)
 

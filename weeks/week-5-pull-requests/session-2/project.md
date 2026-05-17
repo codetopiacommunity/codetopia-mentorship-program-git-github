@@ -55,12 +55,13 @@ Once re-approved:
 
 ## Deliverable
 
-In the **Discussions** tab, post a message containing:
+Submit your work as follows:
 
-- A link to the PR you **authored**.
-- A link to the PR you **reviewed**.
-- Screenshots of: (a) a suggested-change comment you wrote, (b) the merge-strategy dropdown open on your own PR.
-- A two-sentence answer to: *"When would I pick 'Request changes' over a plain 'Comment'?"*
+1. **In your project's `screenshots/` folder** (the submission of record): add at least two screenshots — (a) a suggested-change comment you wrote, (b) the merge-strategy dropdown open on your own PR. Name them `01-suggested-change.png`, `02-merge-dropdown.png`, etc. Drop the folder alongside your Week 5 submission (e.g., `projects-showcase/week-5-projects/<your-handle>/screenshots/`).
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In the Discussions tab** (additional channel): post a link to the PR you **authored**, a link to the PR you **reviewed**, and a two-sentence answer to: *"When would I pick 'Request changes' over a plain 'Comment'?"*
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch goal (+10 XP)
 

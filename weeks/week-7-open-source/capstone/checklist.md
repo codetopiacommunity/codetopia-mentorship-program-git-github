@@ -42,6 +42,8 @@
 ## Cohort submission
 
 - [ ] Folder under `projects-showcase/week-7-projects/<your-handle>/`.
+- [ ] `screenshots/` folder present with at least 2 named screenshots (`01-...`, `02-...`)
+- [ ] Best screenshot shared in the WhatsApp group
 - [ ] PR title is Conventional Commits.
 - [ ] PR description follows [`../../../templates/pr-template.md`](../../../templates/pr-template.md).
 - [ ] I checked off this list in my PR description.

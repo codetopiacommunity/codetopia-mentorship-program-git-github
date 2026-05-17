@@ -29,6 +29,8 @@ Run this list before opening your PR. If any box can't be checked, fix it first.
 - [ ] `README.md` present, explains the project and how to read the branches
 - [ ] Landing page file (`index.html` / `index.md` / etc.) present on `main`
 - [ ] `.gitignore` at repo root
+- [ ] `screenshots/` folder present with at least 2 named screenshots (`01-...`, `02-...`)
+- [ ] Best screenshot shared in the WhatsApp group
 - [ ] `MERGE-STORY.md` at repo root with **all five** required sections:
   - [ ] Graph snapshot
   - [ ] Merge 1 summary

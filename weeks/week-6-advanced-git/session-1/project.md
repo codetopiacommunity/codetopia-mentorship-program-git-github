@@ -37,13 +37,20 @@ Create a toy repo with a deliberately messy history, then clean it up using `git
 
 ## Deliverable
 
-A `rebase-practice/` folder (pushed to your GitHub or zipped) containing:
+Submit your work as follows:
 
-- The cleaned-up repo.
-- A `README.md` with:
-  - A "Before" section showing the original messy log.
-  - An "After" section showing the cleaned log.
-  - A short paragraph describing what you did for each commit you reshaped.
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically a side-by-side or two separate shots of the "before" messy `git log --oneline` and the "after" cleaned log. Name them `01-before.png`, `02-after.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot (the cleaned log is usually the proudest moment) so the cohort can cheer you on.
+3. A `rebase-practice/` folder (pushed to your GitHub or zipped) containing:
+
+   - The cleaned-up repo.
+   - The `screenshots/` folder.
+   - A `README.md` with:
+     - A "Before" section showing the original messy log.
+     - An "After" section showing the cleaned log.
+     - A short paragraph describing what you did for each commit you reshaped.
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch (+25 XP)
 

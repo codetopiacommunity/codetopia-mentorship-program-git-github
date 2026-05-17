@@ -73,16 +73,21 @@ Screenshot the settings page.
 
 ## Deliverable
 
-A PR adding your project (or a link to its public repo) under `projects-showcase/week-8-projects/<your-handle>/session-1/` with:
+Submit your work as follows:
 
-- The repo URL.
-- The `.github/workflows/ci.yml` pasted into a `workflow.md` for easy review.
-- Three screenshots: green hello run, red CI run, green CI run after fix.
-- Screenshot of branch protection settings.
-- A short `notes.md` with:
-  - Which language/framework you chose.
-  - One thing you got wrong first and how you fixed it (every first CI has one).
-  - One thing you'd add next (matrix, coverage upload, cache tuning, etc.).
+1. **In your project's `screenshots/` folder** (the submission of record): collect the four CI screenshots — green hello run, red CI run, green CI run after fix, and branch protection settings. Name them `01-hello-green.png`, `02-ci-red.png`, `03-ci-green.png`, `04-branch-protection.png`. Place the folder at `projects-showcase/week-8-projects/<your-handle>/session-1/screenshots/`.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot (the green CI badge moment usually wins) so the cohort can cheer you on.
+3. **Open a PR** adding your project (or a link to its public repo) under `projects-showcase/week-8-projects/<your-handle>/session-1/` with:
+
+   - The repo URL.
+   - The `.github/workflows/ci.yml` pasted into a `workflow.md` for easy review.
+   - The `screenshots/` folder (the same four screenshots above).
+   - A short `notes.md` with:
+     - Which language/framework you chose.
+     - One thing you got wrong first and how you fixed it (every first CI has one).
+     - One thing you'd add next (matrix, coverage upload, cache tuning, etc.).
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch (+25 XP)
 

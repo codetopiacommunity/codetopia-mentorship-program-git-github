@@ -76,11 +76,13 @@ Simulate two people working on the same repo and resolve a real divergence — a
 
 ## Deliverable
 
-In the **Discussions** tab, post:
+Submit your work as follows:
 
-- The output of `git log --graph --oneline --all` from `copyB` (paste in a code block).
-- The output of `git branch -vv` from `copyB`.
-- A two-sentence answer to: *"What does `git fetch` do that `git pull` doesn't let you do?"*
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically `git log --graph --oneline --all` from `copyB` and `git branch -vv`. Name them `01-graph-copyB.png`, `02-branch-vv.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In the Discussions tab** (additional channel): paste the `git log --graph --oneline --all` and `git branch -vv` outputs in a code block, plus a two-sentence answer to: *"What does `git fetch` do that `git pull` doesn't let you do?"*
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch goal (+10 XP)
 

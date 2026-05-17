@@ -16,6 +16,8 @@ Run this list before opening your PR. If any box can't be checked, fix it first.
 - [ ] `HISTORY.md` present with all three required sections
 - [ ] `recipes/` contains ≥ 3 recipe `.md` files
 - [ ] `.gitignore` present at the repo root
+- [ ] `screenshots/` folder present with at least 2 named screenshots (`01-...`, `02-...`)
+- [ ] Best screenshot shared in the WhatsApp group
 
 ## `.gitignore` proof
 

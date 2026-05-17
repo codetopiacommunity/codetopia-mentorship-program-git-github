@@ -56,13 +56,20 @@ You now have 10 commits.
 
 ## Deliverable
 
-A `rescue-mission/` repo containing:
+Submit your work as follows:
 
-- The repo in its final state.
-- A `RESCUE-LOG.md` with sections A/B/C/D. For each part, include:
-  - The commands you ran.
-  - What you observed (terminal output snippets are great).
-  - A one-sentence reflection on *when you would use this tool in real life*.
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically the `git reflog` moment where you found the lost SHA, or the bisect "first bad commit" output. Name them `01-reflog.png`, `02-bisect.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. A `rescue-mission/` repo containing:
+
+   - The repo in its final state.
+   - The `screenshots/` folder.
+   - A `RESCUE-LOG.md` with sections A/B/C/D. For each part, include:
+     - The commands you ran.
+     - What you observed (terminal output snippets are great).
+     - A one-sentence reflection on *when you would use this tool in real life*.
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch (+25 XP)
 

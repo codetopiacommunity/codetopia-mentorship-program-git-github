@@ -13,8 +13,10 @@
 1. Read the [Code of Conduct](CODE_OF_CONDUCT.md).
 2. Start at [`weeks/week-1-foundation/`](weeks/week-1-foundation/).
 3. Work through each session's `README.md` → `lecture-notes.md` → `project.md`.
-4. Submit your capstone by opening a PR to [`projects-showcase/`](projects-showcase/).
-5. Ask questions in the **Discussions** tab of this repository.
+4. For every project, include a `screenshots/` folder in your work — that's the submission of record. See [CONTRIBUTING.md](CONTRIBUTING.md#screenshot-conventions).
+5. Submit your capstone by opening a PR to [`projects-showcase/`](projects-showcase/).
+6. Drop a screenshot in the **WhatsApp group** so the cohort can celebrate with you.
+7. Ask questions in the **Discussions** tab of this repository.
 
 ## 🧑‍🏫 Quick Start for Mentors
 

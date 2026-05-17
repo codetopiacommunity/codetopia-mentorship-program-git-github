@@ -28,6 +28,8 @@ Run through this before opening your PR. If any box is unchecked, fix it first.
 
 - [ ] Repo is under `projects-showcase/week-6-projects/<your-handle>/`.
 - [ ] `.git/` directory is present in the submission (reviewers need the history).
+- [ ] `screenshots/` folder present with at least 2 named screenshots (`01-...`, `02-...`)
+- [ ] Best screenshot shared in the WhatsApp group
 - [ ] No extraneous files (no `node_modules/`, no `.DS_Store`, no personal info).
 - [ ] A project `README.md` exists in my submission folder explaining what the repo is.
 

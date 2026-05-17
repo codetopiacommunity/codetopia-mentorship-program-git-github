@@ -61,11 +61,13 @@ Fork this mentorship repo, clone your fork, add your handle to a contributors fi
 
 ## Deliverable
 
-Post the PR URL in the **Discussions** tab with:
+Submit your work as follows:
 
-- A link to your PR.
-- The output of `git remote -v` (shows both `origin` and `upstream`).
-- A one-sentence answer to: *"Why did I need a fork for this instead of just a branch?"*
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically the open PR page on GitHub and `git remote -v` showing both `origin` and `upstream`. Name them `01-pr-page.png`, `02-git-remote.png`, etc. (If your project is the fork itself, drop the folder under `projects-showcase/week-5-projects/<your-handle>/screenshots/` in the same PR.)
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In the Discussions tab** (additional channel): post the PR URL, the `git remote -v` output, and a one-sentence answer to: *"Why did I need a fork for this instead of just a branch?"*
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch goal (+10 XP)
 

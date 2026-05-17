@@ -28,6 +28,7 @@ Transform that history into a clean one. You must:
 3. Use `git commit --amend` at least once.
 4. Keep the final diff (working tree) identical to the original — *cleaning history should not change the end state*.
 5. Include a `WRITEUP.md` (see below).
+6. Include a `screenshots/` folder in your project containing at least 2 screenshots showing the work in action (e.g., the messy "before" log, the clean "after" log, the interactive rebase todo editor). See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Writeup (`WRITEUP.md`)
 
@@ -40,12 +41,17 @@ Must contain:
 
 ## Deliverable
 
-Open a PR adding your project under `projects-showcase/week-6-projects/<your-handle>/`. Include:
+Submit your work as follows:
 
-- The cleaned repo (as a subfolder, with `.git/` intact — so reviewers can see your log).
-- `WRITEUP.md`.
+1. **Open a PR** (the submission of record) adding your project under `projects-showcase/week-6-projects/<your-handle>/`. Include:
 
-See [`../../../CONTRIBUTING.md`](../../../CONTRIBUTING.md).
+   - The cleaned repo (as a subfolder, with `.git/` intact — so reviewers can see your log).
+   - `WRITEUP.md`.
+   - The `screenshots/` folder.
+
+   See [`../../../CONTRIBUTING.md`](../../../CONTRIBUTING.md).
+
+2. **In the WhatsApp group** (the celebration): once your PR is open, share your best before/after screenshot and the PR link so the cohort can cheer you on.
 
 ## Grading
 

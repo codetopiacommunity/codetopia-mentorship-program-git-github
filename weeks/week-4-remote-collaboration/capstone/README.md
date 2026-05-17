@@ -8,6 +8,7 @@ Create a brand-new, README-only project in a fresh local repo, push it to **your
 
 ## Requirements
 
+- A `screenshots/` folder in your project containing at least 2 screenshots showing the work in action (e.g., the GitHub repo page, `git remote -v`, the two-push history). See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 - Brand-new local repo created with `git init`.
 - A meaningful `README.md` (minimum 3 sections of real content — no lorem ipsum).
 - A `.gitignore` (use [`../../../templates/.gitignore-template`](../../../templates/.gitignore-template)).
@@ -19,15 +20,19 @@ Create a brand-new, README-only project in a fresh local repo, push it to **your
 
 ## Deliverable
 
-Open a PR against this mentorship repo adding a file at `projects-showcase/week-4-projects/<your-handle>/README.md` containing:
+Submit your work as follows:
 
-- A one-line description of the project.
-- A link to your GitHub repo.
-- A paste of your `git log --oneline` output.
-- A paste of your `git remote -v` output.
-- A "What I learned this week" section (specific — name a stuck moment).
+1. **Open a PR** (the submission of record) against this mentorship repo adding a file at `projects-showcase/week-4-projects/<your-handle>/README.md`, with your `screenshots/` folder alongside it. See [`../../../CONTRIBUTING.md`](../../../CONTRIBUTING.md) for PR etiquette.
 
-See [`../../../CONTRIBUTING.md`](../../../CONTRIBUTING.md) for PR etiquette.
+   The submission `README.md` should contain:
+
+   - A one-line description of the project.
+   - A link to your GitHub repo.
+   - A paste of your `git log --oneline` output.
+   - A paste of your `git remote -v` output.
+   - A "What I learned this week" section (specific — name a stuck moment).
+
+2. **In the WhatsApp group** (the celebration): once your PR is open, share your best screenshot and the PR link so the cohort can cheer you on.
 
 ## Grading
 

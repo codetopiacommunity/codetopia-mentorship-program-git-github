@@ -52,7 +52,13 @@ For your top pick, draft the exact comment you would post on the issue to ask if
 
 ## Deliverable
 
-A single `triage-notebook.md` file (or a folder of 5 markdown files — your choice), submitted as a PR to `projects-showcase/week-7-projects/<your-handle>/session-1/`.
+Submit your work as follows:
+
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically a chosen project's issue page or its CONTRIBUTING.md, captured during triage. Name them `01-issue-page.png`, `02-contributing.png`, etc. Place it at `projects-showcase/week-7-projects/<your-handle>/session-1/screenshots/`.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **Open a PR** to `projects-showcase/week-7-projects/<your-handle>/session-1/` containing a `triage-notebook.md` (or a folder of 5 markdown files — your choice) and the `screenshots/` folder.
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch (+25 XP)
 

@@ -70,7 +70,13 @@ git add MERGE-LOG.md
 git commit -m "docs: add merge log"
 ```
 
-Post your `git log --oneline --graph --decorate --all` output in **Discussions → Week 3**.
+Then submit your work as follows:
+
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically the colored `git log --oneline --graph --decorate --all` and the conflict-markers moment. Name them `01-merge-graph.png`, `02-conflict-markers.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In Discussions → Week 3** (additional channel): paste the `git log --oneline --graph --decorate --all` output.
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch goal (+25 XP)
 

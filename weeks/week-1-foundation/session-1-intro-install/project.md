@@ -16,11 +16,13 @@ Get Git installed and working on your machine, then prove it.
 
 ## Deliverable
 
-In the **Discussions** tab, post a single message containing:
+Submit your work as follows:
 
-- The output of `git --version`
-- The output of `git config --get user.name` and `git config --get user.email`
-- A one-sentence answer to: *"What is the difference between Git and GitHub?"*
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically a terminal shot of `git --version` plus `git config --get user.name` and `git config --get user.email`. Name them `01-git-version.png`, `02-git-config.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In the Discussions tab** (additional channel): post the same outputs as text, plus a one-sentence answer to: *"What is the difference between Git and GitHub?"*
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stuck?
 

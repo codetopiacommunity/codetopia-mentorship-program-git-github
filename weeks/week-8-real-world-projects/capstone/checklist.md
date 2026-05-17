@@ -62,7 +62,9 @@
 
 - [ ] Folder at `projects-showcase/week-8-projects/<your-handle>/`.
 - [ ] Submission README with repo link, release link, live deploy link (if any), pitch.
+- [ ] `screenshots/` folder present with at least 2 named screenshots (`01-...`, `02-...`)
 - [ ] All required screenshots (branch protection, CI green, release page).
+- [ ] Best screenshot shared in the WhatsApp group
 - [ ] PR title: `feat(week-8): <handle> graduation project`.
 - [ ] PR description follows [`../../../templates/pr-template.md`](../../../templates/pr-template.md).
 

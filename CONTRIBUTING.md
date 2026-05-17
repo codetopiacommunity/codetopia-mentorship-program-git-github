@@ -11,9 +11,33 @@ Welcome! This repository is a *learning environment* — contributions from ment
 3. Create a branch: `git checkout -b week-<n>-<your-username>-capstone`.
 4. Add your project files under `projects-showcase/week-<n>-projects/<your-username>/`.
 5. Include a `README.md` in your project folder describing what you built.
-6. Commit using the [commit message guide](templates/commit-message-guide.md).
-7. Push your branch and open a pull request against `main`.
-8. Request a review from your mentor.
+6. **Include a `screenshots/` folder** in your project with at least one screenshot showing the result (terminal output, rendered page, `git log` graph — whatever proves the work). See [Screenshot conventions](#screenshot-conventions) below.
+7. Commit using the [commit message guide](templates/commit-message-guide.md).
+8. Push your branch and open a pull request against `main`.
+9. Request a review from your mentor.
+10. **Share a quick screenshot in the WhatsApp group** so the cohort can cheer you on. The PR is your submission; WhatsApp is the celebration.
+
+### Screenshot conventions
+
+Every project — session work and capstone alike — gets a `screenshots/` folder.
+
+```
+projects-showcase/week-<n>-projects/<your-handle>/
+├── README.md
+├── screenshots/
+│   ├── 01-git-log.png
+│   ├── 02-branches.png
+│   └── 03-final-result.png
+└── ...your other project files
+```
+
+Rules:
+
+- **The folder in your project is the submission of record.** WhatsApp is informal — files there don't survive.
+- Name screenshots `NN-description.png` (`01-`, `02-`, …) so they sort naturally.
+- PNG or JPG. Keep each under ~1 MB.
+- No secrets in the frame — blur tokens, emails, paths you don't want public.
+- Reference key screenshots inline in your project `README.md` so reviewers don't have to dig.
 
 ### Asking Questions
 

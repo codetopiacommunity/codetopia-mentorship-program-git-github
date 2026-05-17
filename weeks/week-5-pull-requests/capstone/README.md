@@ -25,6 +25,7 @@ The bar is "a PR I'd happily merge at work" — both as author and as reviewer.
 - Your mentor requested as reviewer.
 - A folder at `projects-showcase/week-5-projects/<your-handle>/` containing:
   - `README.md` — a short writeup of your Week 4 project with screenshots and lessons.
+  - A `screenshots/` folder with at least 2 screenshots showing the work in action (e.g., the open PR page, a review comment thread). See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
   - Any assets you want to link from it.
 - All review comments either addressed with a new commit or replied to in the thread.
 
@@ -39,11 +40,16 @@ The bar is "a PR I'd happily merge at work" — both as author and as reviewer.
 
 ## Deliverable
 
-Your PR itself is the deliverable. Mentors will grade:
+Submit your work as follows:
 
-- The PR's diff and description.
-- The PR's commit history.
-- Your review activity on a peer's PR (they'll check the Conversation tab).
+1. **Your PR** is the submission of record. Mentors will grade:
+
+   - The PR's diff and description.
+   - The PR's commit history.
+   - The `screenshots/` folder included in your submission.
+   - Your review activity on a peer's PR (they'll check the Conversation tab).
+
+2. **In the WhatsApp group** (the celebration): once your PR is open, share your best screenshot and the PR link so the cohort can cheer you on.
 
 No separate discussion post required — the PR is the portfolio piece.
 

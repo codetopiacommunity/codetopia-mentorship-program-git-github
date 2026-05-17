@@ -10,6 +10,7 @@ The point is not the recipes. The point is to demonstrate you can *shape* a repo
 
 ## Requirements
 
+- A `screenshots/` folder in your project containing at least 2 screenshots showing the work in action (e.g., `git log --oneline`, your `HISTORY.md`, or the `.gitignore` proof). See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 - Brand-new repo created with `git init`.
 - A `README.md` at the root describing the collection.
 - A `recipes/` directory with **at least 3** recipe files (markdown, one recipe per file).
@@ -24,12 +25,16 @@ The point is not the recipes. The point is to demonstrate you can *shape* a repo
 
 ## Deliverable
 
-Open a PR adding your project under `projects-showcase/week-2-projects/<your-handle>/`. See [`../../../CONTRIBUTING.md`](../../../CONTRIBUTING.md).
+Submit your work as follows:
 
-Include in your PR description:
+1. **Open a PR** (the submission of record) adding your project under `projects-showcase/week-2-projects/<your-handle>/`, with your `screenshots/` folder included. See [`../../../CONTRIBUTING.md`](../../../CONTRIBUTING.md).
 
-- The output of `git log --oneline`.
-- A one-paragraph reflection: *"The mistake I made and how I fixed it."*
+   Include in your PR description:
+
+   - The output of `git log --oneline`.
+   - A one-paragraph reflection: *"The mistake I made and how I fixed it."*
+
+2. **In the WhatsApp group** (the celebration): once your PR is open, share your best screenshot and the PR link so the cohort can cheer you on.
 
 ## Grading
 

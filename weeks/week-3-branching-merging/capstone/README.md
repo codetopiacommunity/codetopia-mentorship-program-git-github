@@ -10,6 +10,7 @@ The point is not the landing page. The point is to *own* the branching-merging-c
 
 ## Requirements
 
+- A `screenshots/` folder in your project containing at least 2 screenshots showing the work in action (e.g., the merged branch graph, a captured conflict block). See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 - Brand-new repo created with `git init`.
 - A `README.md` at the root describing the project and how to read the branch history.
 - A "landing page" file (`index.html`, `index.md`, or similar) on `main` with:
@@ -45,13 +46,17 @@ Committed to `main` after all three merges are done. Must contain:
 
 ## Deliverable
 
-Open a PR adding your project under `projects-showcase/week-3-projects/<your-handle>/`. See [`../../../CONTRIBUTING.md`](../../../CONTRIBUTING.md).
+Submit your work as follows:
 
-Include in your PR description:
+1. **Open a PR** (the submission of record) adding your project under `projects-showcase/week-3-projects/<your-handle>/`, with your `screenshots/` folder included. See [`../../../CONTRIBUTING.md`](../../../CONTRIBUTING.md).
 
-- The output of `git log --oneline --graph --decorate --all`.
-- A screenshot of the repo's graph (from your terminal or, if you pushed, from GitHub).
-- A one-paragraph reflection tying this to Week 2's "undo lab": *"When something went wrong this week, which undo tool did I reach for, and why?"*
+   Include in your PR description:
+
+   - The output of `git log --oneline --graph --decorate --all`.
+   - A screenshot of the repo's graph (from your terminal or, if you pushed, from GitHub).
+   - A one-paragraph reflection tying this to Week 2's "undo lab": *"When something went wrong this week, which undo tool did I reach for, and why?"*
+
+2. **In the WhatsApp group** (the celebration): once your PR is open, share your best screenshot and the PR link so the cohort can cheer you on.
 
 ## Grading
 

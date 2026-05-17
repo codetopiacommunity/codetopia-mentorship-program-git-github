@@ -75,14 +75,20 @@ Then push a follow-up commit (even a no-op formatting tweak) to practice the "re
 
 ## Deliverable
 
-A short `dry-run.md` in `projects-showcase/week-7-projects/<your-handle>/session-2/` containing:
+Submit your work as follows:
 
-- The PR URL.
-- The full PR description you wrote (as a code block).
-- A reflection section:
-  - What surprised you about the workflow?
-  - What part felt awkward or unclear?
-  - One thing you'd do differently on the real capstone.
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically the opened PR page on the target repo, plus the response-and-push loop. Name them `01-pr-opened.png`, `02-followup-commit.png`, etc. Place it at `projects-showcase/week-7-projects/<your-handle>/session-2/screenshots/`.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. A short `dry-run.md` in `projects-showcase/week-7-projects/<your-handle>/session-2/` containing:
+
+   - The PR URL.
+   - The full PR description you wrote (as a code block).
+   - A reflection section:
+     - What surprised you about the workflow?
+     - What part felt awkward or unclear?
+     - One thing you'd do differently on the real capstone.
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch (+25 XP)
 

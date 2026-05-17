@@ -21,10 +21,13 @@ Practice the add → commit cycle by building a tiny markdown "favorites" notebo
 
 ## Deliverable
 
-In Discussions, post:
+Submit your work as follows:
 
-- The output of `git log --oneline`
-- A screenshot or paste of your `README.md`
+1. **In your project's `screenshots/` folder** (the submission of record): add at least one screenshot — typically a clean `git log --oneline` and the rendered `README.md`. Name them `01-git-log.png`, `02-readme.png`, etc.
+2. **In the WhatsApp group** (informal share): drop a copy of your best screenshot so the cohort can cheer you on.
+3. **In Discussions** (additional channel): paste the text of `git log --oneline` and a snippet of your `README.md`.
+
+See [CONTRIBUTING.md → Screenshot conventions](../../../CONTRIBUTING.md#screenshot-conventions).
 
 ## Stretch (+25 XP)
 
